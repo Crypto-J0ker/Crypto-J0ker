@@ -1,7 +1,7 @@
-## Hey, i'm Evgenii 🖐️
+## Hey, I'm Evgenii 🖐️
 
-- I'm a frontend developer. 
-- My primary area of interest is React.js and TypeScript.  
+- I'm a front-end developer. 
+- My primary areas of interest are React.js and TypeScript.  
 - My next skill acquisition will focus on Next.js, as I plan to delve into this technology to build more complex and high-performance applications.
   
 **Follow me on GitHub, I have many React.js and Next.js projects coming up! 😊**
