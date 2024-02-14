@@ -34,7 +34,7 @@
 ## Socials
 
 <div align="start">
-  <a href="https://t.me/zakirov_e"><img src="https://phonoteka.org/uploads/posts/2022-09/1663789331_5-phonoteka-org-p-znachok-telegramma-bez-fona-krasivo-6.png" alt="Telegram" height="65"></a>
+  <a href="https://t.me/zakirov_e"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="65"></a>
   <!-- <a href="https://vk.com/"><img src="https://phonoteka.org/uploads/posts/2022-09/1663824562_7-phonoteka-org-p-sots-seti-fon-vkontakte-9.png" alt="VK" height="65"></a>
   <a href="https://instagram.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="65"></a> -->
 
